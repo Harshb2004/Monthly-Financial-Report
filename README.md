@@ -10,14 +10,17 @@ Perform data analysis and create a dynamic dahsboard which makes easy to underst
 
 [Datasets](https://github.com/Harshb2004/Monthly-Financial-Report/blob/master/Data%20Analyst%20-Case%20Study%20Data.xlsx)
 
-## Tasks (KPIs)
-   - What is the total sales of every year?
-   - What is the total margin every year?
-   - Which is the most ordered product?
-   - Sales on the basis of product name?
-   - Total quantity ordered in a year?
-   - Which country has more customers?
-   - From How many countries and cities we have customer?
+## Tasks
+   - What is the Revenue ?
+   - Which is the Net Profit?
+   - What is the Gross Margin ?
+   - Which is the Net Cashflow?
+   - Which is the EBITDA?
+   - Monthly Revenue and Profit trend?
+   - Actual v/s Budget variance?
+   - Cashflow summary?
+   - Product/Service Performance?
+   - Productwise Receivable aging?
 
 ## Dashboard
 [Dashboard_View](https://github.com/Harshb2004/BizInsights360/blob/master/Dashboard%20data.pbix)
