@@ -8,7 +8,7 @@ Perform data analysis and create a dynamic dahsboard which makes easy to underst
 
 ## Dataset
 
-[Datasets]([[Dataset](https://github.com/Harshb2004/Monthly-Financial-Report/blob/master/Data%20Analyst%20-Case%20Study%20Data.xlsx)])
+[Datasets](https://github.com/Harshb2004/Monthly-Financial-Report/blob/master/Data%20Analyst%20-Case%20Study%20Data.xlsx)
 
 ## Tasks (KPIs)
    - What is the total sales of every year?
