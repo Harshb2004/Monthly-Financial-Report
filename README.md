@@ -23,11 +23,8 @@ Perform data analysis and create a dynamic dahsboard which makes easy to underst
    - Productwise Receivable aging?
 
 ## Dashboard
-[Dashboard_View](https://github.com/Harshb2004/BizInsights360/blob/master/Dashboard%20data.pbix)
+[Dashboard_View](https://github.com/Harshb2004/Monthly-Financial-Report/blob/master/Monthly%20Financial%20Dashboard.pbix)
 
-## Dashboard Sample
-
-[Dashboard_Screenshot](https://github.com/Harshb2004/BizInsights360/blob/master/Dashboard%20Scrsht.jpg)
 
 
 
